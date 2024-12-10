@@ -1,0 +1,14 @@
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\httpRevShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\httpRevShell.AssemblyInfoInputs.cache
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\httpRevShell.AssemblyInfo.cs
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\httpRevShell.csproj.CoreCompileInputs.cache
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\bin\Debug\net9.0\httpRevShell.exe
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\bin\Debug\net9.0\httpRevShell.deps.json
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\bin\Debug\net9.0\httpRevShell.runtimeconfig.json
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\bin\Debug\net9.0\httpRevShell.dll
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\bin\Debug\net9.0\httpRevShell.pdb
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\httpRevShell.dll
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\refint\httpRevShell.dll
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\httpRevShell.pdb
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\httpRevShell.genruntimeconfig.cache
+C:\Users\Sebastiano\Desktop\tests\httpRevShell\obj\Debug\net9.0\ref\httpRevShell.dll

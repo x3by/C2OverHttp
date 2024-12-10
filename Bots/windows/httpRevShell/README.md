@@ -27,6 +27,6 @@ If the subject of this response is the bot, and the revision (rev) is different 
 ```json
 {
     "bot": "Windows-01",
-    "result": "nt authority\\system\r\n"
+    "result": "aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ=="
 }
 ```
